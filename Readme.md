@@ -19,4 +19,4 @@ Dotnet run.
 Erros de execução, erro no namespace.
 
 ## Contribuidores
-Rogério Moreira da Silva, Eduardo Mendes da Costa.
+Alexandre Costa Rodrigues de Sousa.
